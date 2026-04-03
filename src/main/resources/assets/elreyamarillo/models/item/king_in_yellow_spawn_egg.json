@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elreyamarillo:item/king_in_yellow_spawn_egg"
+  }
+}
